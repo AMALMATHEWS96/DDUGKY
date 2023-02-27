@@ -1,2 +1,2 @@
 # DDUGKY
-##  Thease are my projects
+##  These are my projects
